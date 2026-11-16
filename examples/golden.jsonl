@@ -1,3 +1,10 @@
 {"id":"q1","question":"Python 中 len() 返回什么？","answer":"返回对象的长度"}
 {"id":"q2","question":"列表和元组的区别？","answer":"列表可变，元组不可变"}
 {"id":"q3","question":"字典的键必须是什么类型？","answer":"必须是可哈希类型"}
+{"id":"q4","question":"Python 中 range(5) 生成几个数？","answer":"生成5个整数"}
+{"id":"q5","question":"什么是 Git 的 commit？","answer":"一次代码提交的快照"}
+{"id":"q6","question":"HTTP 状态码 404 表示什么？","answer":"请求的资源不存在"}
+{"id":"q7","question":"pytest 中 assert 的作用是什么？","answer":"检查条件是否为真"}
+{"id":"q8","question":"JSON 中字符串用什么符号包裹？","answer":"用双引号包裹"}
+{"id":"q9","question":"Linux 中 pwd 命令做什么？","answer":"显示当前工作目录"}
+{"id":"q10","question":"什么是 ORM？","answer":"对象关系映射"}
