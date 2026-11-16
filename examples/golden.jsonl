@@ -1,0 +1,3 @@
+{"id":"q1","question":"Python 中 len() 返回什么？","answer":"返回对象的长度"}
+{"id":"q2","question":"列表和元组的区别？","answer":"列表可变，元组不可变"}
+{"id":"q3","question":"字典的键必须是什么类型？","answer":"必须是可哈希类型"}
